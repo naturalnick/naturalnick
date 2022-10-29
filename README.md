@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick Schaefer
 - 🌱 I’m passionate about gardening
 - 🍄 I take [pictures](https://www.instagram.com/wildernns) of nature.
-- 💫 I love writing code.
+- 💫 I love writing code and problem solving.
 - 🥨 I'm currently learning React.
 - 🧠 I'm open to work.
