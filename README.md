@@ -2,5 +2,5 @@
 - 🌱 I’m passionate about gardening.
 - 🍄 I take [pictures](https://www.instagram.com/wildernns) of nature.
 - 💫 I love writing code and problem solving.
-- 🥨 I'm currently learning React.
+- 🥨 I'm currently learning Python.
 - 🧠 I'm open to work.
