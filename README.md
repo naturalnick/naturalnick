@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick Schaefer!
 - 💫 I love writing code and problem solving
 - 📕 Here's my [portfolio](https://www.nschaefer.com)
-- 🐍 I'm currently enjoying making iPhone apps with SwiftUI
+- 🌱 Check out my latest app [GrowNotes](https://www.grow-notes.com), a garden journal!
 - 🗣 I'm open to ideas, collaborations, employment, opportunities
 - 🍄 In my free time I take [pictures](https://www.instagram.com/wildernns) of nature
